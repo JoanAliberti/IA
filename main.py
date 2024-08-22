@@ -6,6 +6,7 @@ from gtts import gTTS
 import pygame
 import os
 
+
 # Configura tu clave de API de OpenAI
 # openai.api_key = os.environ.get.OPENAI_API_KEY,
 
